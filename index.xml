@@ -17,7 +17,8 @@
       <pubDate>Tue, 11 Jun 2019 10:42:43 +0800</pubDate>
       
       <guid>https://sssnan123.github.io/blog/</guid>
-      <description> 我的第一篇Blog关于UE4的游戏开发整理 </description>
+      <description> title: &amp;ldquo;Project P1&amp;rsquo;s Title&amp;rdquo; description: &amp;ldquo;A short description&amp;rdquo; date: &amp;lsquo;2018-01-02&amp;rsquo; link: &amp;lsquo;https://project-p1.com&#39; screenshot: &amp;lsquo;p1.png&amp;rsquo; layout: &amp;lsquo;portfolio&amp;rsquo;
+featured: true </description>
     </item>
     
   </channel>
