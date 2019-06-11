@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>My New Hugo Site</title>
+    <link>https://sssnan123.github.io/</link>
+    <description>Recent content on My New Hugo Site</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Tue, 11 Jun 2019 10:42:43 +0800</lastBuildDate>
+    
+	<atom:link href="https://sssnan123.github.io/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Blog</title>
+      <link>https://sssnan123.github.io/blog/</link>
+      <pubDate>Tue, 11 Jun 2019 10:42:43 +0800</pubDate>
+      
+      <guid>https://sssnan123.github.io/blog/</guid>
+      <description> 我的第一篇Blog关于UE4的游戏开发整理 </description>
+    </item>
+    
+  </channel>
+</rss>
